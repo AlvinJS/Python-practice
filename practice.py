@@ -7,6 +7,4 @@ while choice == 'y':
  input(print("Enter to role your dice: "))
  print("You roled a: " ,dice)
 
- choice=input(print("Would you like to play again(y/n): "))
-
-
+ choice=input("Would you like to play again(y/n): ")
